@@ -7,3 +7,4 @@ Source for template image, such as: logo, banner, and random image
 ![Asset 8-8](https://github.com/iqbaalma/source-convert-image/assets/104726883/658bb975-2e6b-49e6-8b25-0ad67a553af2)
 ![Asset 6-8](https://github.com/iqbaalma/source-convert-image/assets/104726883/24a53a0e-f626-4acb-83ab-51d9f2985388)
 ![logo-template-03](https://github.com/iqbaalma/source-convert-image/assets/104726883/327d972b-7b51-4111-a39b-ccac7630be35)
+![google-play-badge](https://github.com/iqbaalma/source-convert-image/assets/104726883/bdf1913b-b2dd-4ac2-a8a7-826b47fd01a1)
